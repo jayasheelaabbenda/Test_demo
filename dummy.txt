@@ -1,2 +1,3 @@
 my first practice code in git hub
 updating file
+updating third line
